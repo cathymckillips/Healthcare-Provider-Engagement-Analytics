@@ -38,7 +38,7 @@ The KPI cards and activity chart use **September 2026**. The trend retains the f
 <!-- ![Executive Engagement Overview](screenshots/Executive_Overview.png) -->
 <!-- Add a Tableau Public URL here if you publish the workbook. -->
 
-# Tableau Dashboard
+## Tableau Dashboard
 
 The Tableau dashboard contains **one page**, providing an executive view of healthcare provider adoption, activity, and retention. Built on validated SQL reporting datasets, it combines a monthly KPI snapshot with historical engagement trends.
 
