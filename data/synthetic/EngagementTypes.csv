@@ -1,0 +1,9 @@
+EngagementTypeID,EngagementTypeName,IsQualifying
+1,Resource viewed,1
+2,Educational content accessed,1
+3,Product information reviewed,1
+4,Representative profile viewed,0
+5,Meeting requested,1
+6,Meeting completed,1
+7,Educational event registered,1
+8,Educational event attended,1

@@ -1,0 +1,9 @@
+RuleID,SourceTable,SourceRowID,Issue
+DQ11,ProviderEngagement,100001,Missing event key or later duplicate event
+DQ01,ProviderEngagement,100002,Missing or malformed provider ID
+DQ02,ProviderEngagement,100003,Unknown provider ID
+DQ04,ProviderEngagement,100004,Invalid engagement type
+DQ03,ProviderEngagement,100005,Event after reporting cutoff
+DQ09,ProviderEngagement,100006,Missing or malformed event timestamp
+DQ08,ProviderSessions,50001,Missing or negative session duration
+DQ14,ProviderSessions,50002,Unknown session provider
