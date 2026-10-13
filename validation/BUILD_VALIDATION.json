@@ -1,0 +1,24 @@
+{
+  "source_counts": {
+    "Regions": 50,
+    "Specialties": 20,
+    "Organizations": 300,
+    "EngagementTypes": 8,
+    "Providers": 5000,
+    "ProviderSessions": 50002,
+    "ProviderEngagement": 100006
+  },
+  "reference_export_counts": {
+    "ProviderMonth": 91291,
+    "EngagementDetail": 100000,
+    "DataQualityExceptions": 8
+  },
+  "checks_passed": [
+    "100000 governed events",
+    "8 injected rejected records",
+    "ProviderMonth engagement totals equal qualifying event detail",
+    "retained count never exceeds prior active count"
+  ],
+  "sql_server_execution": "Not executed here; run SQL reconciliation on your local SQL Server.",
+  "reference_exports": "Python-generated starter data; replace using SQL export after local execution."
+}
