@@ -51,7 +51,7 @@ A monthly engagement trend tracks activity from January 2024 through September 2
 The dashboard distinguishes cumulative activation from current-month activity and returning-provider retention. KPI totals were reconciled against SQL Server results to verify reporting accuracy.
 All data is synthetic and created solely for portfolio demonstration.
 
-![Executive Engagement Overview](images/dashboard.png)
+![Executive Engagement Overview](images/Dashboard.png)
 
 ## Technology Stack
 
